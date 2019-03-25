@@ -32,7 +32,7 @@ http://localhost:8080/revolut/api/v1/transfers
 ### 4) GET a transfer
 http://localhost:8080/revolut/api/v1/transfers/{transferId}
 
-### 4) POST a transfer
+### 4) POST make a transfer
 http://localhost:8080/revolut/api/v1/makeTransfer/{transferId}  
 Payload:  
 Transfer Object in JSON format:  
