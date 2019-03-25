@@ -1,5 +1,9 @@
+# Eclipse
 target
 .project
+bin
+.classpath
+.settings
 
 
 # Compiled class file
