@@ -33,12 +33,12 @@ http://localhost:8080/revolut/api/v1/transfers
 http://localhost:8080/revolut/api/v1/transfers/{transferId}
 
 ### 4) POST a transfer
-http://localhost:8080/revolut/api/v1/makeTransfer/{transferId}
-Payload:
-Transfer Object in JSON format:
-String senderId
-String receiverId
-Double amount
+http://localhost:8080/revolut/api/v1/makeTransfer/{transferId}  
+Payload:  
+Transfer Object in JSON format:  
+String senderId  
+String receiverId  
+Double amount  
 Date current date
 
 
